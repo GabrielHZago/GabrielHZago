@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/GabrielHZago?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/GabrielHZago?style=social)  
 
-🎓 **Estudante** no Ensino Médio Técnico na FITO, em Osasco.  
+🎓 **Estudante** de ADS na Anhanguera, em Osasco.  
 💡 Apaixonado por **Inteligência Artificial**, **Machine Learning**, e **IoT**.  
 🛠️ Sempre em busca de novos desafios e aprendizado contínuo!  
 
