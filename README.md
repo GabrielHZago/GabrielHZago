@@ -23,7 +23,6 @@
 ## 🌟 Sobre Mim  
 - **Idiomas**: Português 🇧🇷 | Inglês 🇺🇸 (Intermediário-alto)  
 - **Hobbies**: 🎮 Jogar | 📚 Ler | 🍳 Cozinhar | 🎸 Tocar violão  
-- **Sonho**: Trabalhar em projetos inovadores que conectem tecnologia e criatividade 🌌  
 
 ---
 
